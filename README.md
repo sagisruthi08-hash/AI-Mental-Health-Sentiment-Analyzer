@@ -77,7 +77,7 @@ Emotion English DistilRoBERTa Model
 <img width="1638" height="912" alt="Screenshot 2026-06-25 214135" src="https://github.com/user-attachments/assets/dfcc317c-0ff6-4943-bf79-679212573176" />
 
 ## About Page
-<img width="1853" height="917" alt="Screenshot 2026-06-24 152518" src="https://github.com/user-attachments/assets/b0f457c8-145a-422b-bfe8-9d964228b497" />
+<img width="1672" height="611" alt="Screenshot 2026-06-25 214329" src="https://github.com/user-attachments/assets/a35e1aff-2f10-4043-b6f6-749b71186d01" />
 
 ---
 
