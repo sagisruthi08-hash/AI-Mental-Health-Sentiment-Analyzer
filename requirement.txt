@@ -1,5 +1,2 @@
-streamlit
-transformers
-torch
-pandas
-matplotlib
+vaderSentiment==3.3.2
+streamlit==1.36.0
